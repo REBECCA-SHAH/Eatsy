@@ -45,14 +45,14 @@ Ensured 99%+ uptime using cloud deployments
 
 Installation & Setup:
 # Clone repository
-git clone https://github.com/REBECCA-SHAH/eatsy.git
+# git clone https://github.com/REBECCA-SHAH/eatsy.git
 
-# Install backend dependencies
+Install backend dependencies:
 cd backend
 npm install
 npm start
 
-# Install frontend dependencies
+Install frontend dependencies:
 cd frontend
 npm install
 npm start
