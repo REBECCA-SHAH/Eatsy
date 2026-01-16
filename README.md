@@ -44,8 +44,8 @@ Supports 10,000+ database records
 Ensured 99%+ uptime using cloud deployments
 
 Installation & Setup:
-# Clone repository
-# git clone https://github.com/REBECCA-SHAH/eatsy.git
+Clone repository
+git clone https://github.com/REBECCA-SHAH/eatsy.git
 
 Install backend dependencies:
 cd backend
