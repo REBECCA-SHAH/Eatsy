@@ -62,7 +62,10 @@ npm start
   <br/>
   <em>Eatsy – Home Page UI</em>
 </p>
+<p align="center">
 <img width="500" src="https://github.com/user-attachments/assets/817848f0-0a9b-4336-8615-c37f12f505ac" />
-
+  <br/>
+ <em>-Home page</em>
+  </p>
 
 
