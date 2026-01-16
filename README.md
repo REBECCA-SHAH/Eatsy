@@ -23,7 +23,7 @@ RESTful API architecture handling 1000+ daily requests
 Optimized MongoDB queries for efficient data retrieval
 Secure backend integration with scalable architecture
 
-⚙️ Architecture
+ Architecture:
 
 React-based component-driven frontend
 
