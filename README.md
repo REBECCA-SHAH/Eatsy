@@ -58,11 +58,11 @@ npm install
 npm start
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/85728871-f7fa-45d2-9900-44cc74fe5723" width="800"/>
+  <img src="https://github.com/user-attachments/assets/85728871-f7fa-45d2-9900-44cc74fe5723" width="500"/>
   <br/>
   <em>Eatsy – Home Page UI</em>
 </p>
-<img width="1906" height="879" alt="image" src="https://github.com/user-attachments/assets/817848f0-0a9b-4336-8615-c37f12f505ac" />
+<img width="500" src="https://github.com/user-attachments/assets/817848f0-0a9b-4336-8615-c37f12f505ac" />
 
 
 
