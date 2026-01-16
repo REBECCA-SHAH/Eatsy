@@ -56,3 +56,12 @@ Install frontend dependencies:
 cd frontend
 npm install
 npm start
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85728871-f7fa-45d2-9900-44cc74fe5723" width="800"/>
+  <br/>
+  <em>Eatsy – Home Page UI</em>
+</p>
+
+
+
